@@ -8,5 +8,9 @@ int main(void)
 
 
 	//this is added. (ver.2)
+
+	//this line is added by "MJarKIST".
+	printf("test Line");
+
 	return 0;
 }
