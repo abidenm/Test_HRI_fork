@@ -16,3 +16,10 @@ int main(void)
 
 	return 0;
 }
+
+int main2(void)
+{
+
+
+	return 0;
+}
