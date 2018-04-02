@@ -4,7 +4,8 @@ void test2(void)
 
 
 
-// this line may make a collision.
+// this is test2, new branch(test_fork).
+// upper line is modified to original.
 
 
 
