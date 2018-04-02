@@ -8,5 +8,11 @@ int main(void)
 
 
 	//this is added. (ver.2)
+
+
+
+	//this is added by "MJarKIST" on test_fork branch.
+	printf("Hi, ");
+
 	return 0;
 }
